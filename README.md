@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there👋, I'm Ashlesh Mithur</h1>
-<h3 align="center">A passionate Java developer with a knack for problem-solving and a passion for innovation. With a solid educational background encompassing both a bachelor's and master's degree(awaited) in Computer Science, coupled with four years of professional experience, I bring a wealth of expertise to the table.</h3>
+<h3 align="center">A passionate Java developer and SAP Consultant with a knack for problem-solving and a passion for innovation. With a solid educational background encompassing both a bachelor's and master's degree(awaited) in Computer Science, coupled with four years of professional experience, I bring a wealth of expertise to the table.</h3>
 
 - 🔭 I’m currently working on **something new :)**
 
